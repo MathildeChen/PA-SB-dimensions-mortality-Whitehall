@@ -3,7 +3,7 @@
 This repository contains scripts supporting a project aiming to identify accelerometer-derived dimensions of movement behaviours that predict mortality risk in older populations. 
 
 These scripts were produced to: 
-- derive accelerometer-derived features of physical activity (PA) and sedentary behaviour (SB) during waking period using GGIR package version 2.4-1 (https://github.com/wadpac/GGIR/releases/tag/2.4-1, @vincentvanhees) 
+- derive accelerometer-derived features of physical activity (PA) and sedentary behaviour (SB) during waking period using GGIR package version 2.4-1 (https://CRAN.R-project.org/package=GGIR, @vincentvanhees) 
 - dataset building in the development cohort (0-1_data_WII.R) and in the validation cohort (0-2_data_CoLaus.R)
 - derive composite scores of PA and SB features that are relevant for predicting mortality among older adults; this include tunning of a machine learning algorithm using a 5-fold cross-validation procedure (1-0_sPLS_tuning_WII.R), deriving the score in the development cohort (1-1_sPLS_scores_WII.R), and in the validation cohort (1-2_sPLS_scores_CoLaus.R)
 - examine association between the derived composite scores and mortality in the development cohort (3-1_associations_WII.R) and in the validation cohort (3-2_associations_CoLaus.R)
