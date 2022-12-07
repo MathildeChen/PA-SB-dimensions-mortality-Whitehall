@@ -1,6 +1,6 @@
 # Identification of physical activity and sedentary behaviour dimensions that predict mortality risk in older adults: development of a machine learning model in the Whitehall II accelerometer sub-study and external validation in the CoLaus study
 
-This repository contains scripts supporting a project aiming to identify accelerometer-derived dimensions of movement behaviours that predict mortality risk in older populations. It 
+This repository contains scripts supporting a project aiming to identify accelerometer-derived dimensions of movement behaviours that predict mortality risk in older populations. 
 
 These scripts were produced to: 
 - derive accelerometer-derived features of physical activity (PA) and sedentary behaviour (SB) during waking period using GGIR package version 2.4-1 (https://github.com/wadpac/GGIR/releases/tag/2.4-1, @vincentvanhees) 
@@ -14,13 +14,20 @@ These scripts were produced to:
 All scripts rely on other codes that contains various informations to produce the results (0_variables_names.R, 0-0_model_lists), functions created for the project (0-0_homemade_functions.R).
 _________________________________________________
 Authors
-Mathilde Chen,*1 PhD; Benjamin Landré,*1 PhD; Pedro Marques-Vidal,2 MD, PhD; Vincent T. van Hees,3 PhD; April C.E. van Gennip,4,5 MD; Mikaela Bloomberg,6 PhD; Manasa S. Yerramalla,1 PhD; Mohamed Amine Benadjaoud,7 PhD; Séverine Sabia,1,6 PhD
+Mathilde Chen,¤<sup>1</sup> PhD; Benjamin Landré,¤<sup>1</sup> PhD; Pedro Marques-Vidal,<sup>2</sup> MD, PhD; Vincent T. van Hees,<sup>3</sup> PhD; April C.E. van Gennip,<sup>4,5</sup> MD; Mikaela Bloomberg,<sup>6</sup> PhD; Manasa S. Yerramalla,<sup>1</sup> PhD; Mohamed Amine Benadjaoud,<sup>7</sup> PhD; Séverine Sabia,<sup>1,6</sup> PhD
 
-1 Université Paris Cité, Inserm U1153, CRESS, Epidemiology of Ageing and Neurodegenerative diseases, 10 avenue de Verdun, 75010 Paris, France
-2 Department of Medicine, Internal Medicine, Lausanne University Hospital and University of Lausanne, Switzerland
-3 Accelting, Almere, The Netherlands
-4 Department of Internal Medicine, Maastricht University Medical Centre, The Netherlands
-5 School for Cardiovascular Diseases CARIM, Maastricht University, The Netherlands
-6 Department of Epidemiology and Public Health, University College London, UK
-7 Institute for Radiological Protection and Nuclear Safety (IRSN), Fontenay-Aux-Roses, France
-*These authors contributed equally
+<sup>1</sup> Université Paris Cité, Inserm U1153, CRESS, Epidemiology of Ageing and Neurodegenerative diseases, 10 avenue de Verdun, 75010 Paris, France
+
+<sup>2</sup> Department of Medicine, Internal Medicine, Lausanne University Hospital and University of Lausanne, Switzerland
+
+<sup>3</sup> Accelting, Almere, The Netherlands
+
+<sup>4</sup> Department of Internal Medicine, Maastricht University Medical Centre, The Netherlands
+
+<sup>5</sup> School for Cardiovascular Diseases CARIM, Maastricht University, The Netherlands
+
+<sup>6</sup> Department of Epidemiology and Public Health, University College London, UK
+
+<sup>7</sup> Institute for Radiological Protection and Nuclear Safety (IRSN), Fontenay-Aux-Roses, France
+
+¤ These authors contributed equally
