@@ -45,6 +45,7 @@ All steps rely on other scripts containing various informations to produce the r
 Appendix: 
 [Procedure to compute composite risk score in a replication study.pdf](https://github.com/MathildeChen/PA-SB-dimensions-mortality-Whitehall/files/10209407/Procedure.to.compute.composite.risk.score.in.a.replication.study.pdf)
 
+DOI: 10.5281/zenodo.7428923
 _________________________________________________
 Authors
 Mathilde Chen,¤<sup>1</sup> PhD; Benjamin Landré,¤<sup>1</sup> PhD; Pedro Marques-Vidal,<sup>2</sup> MD, PhD; Vincent T. van Hees,<sup>3</sup> PhD; April C.E. van Gennip,<sup>4,5</sup> MD; Mikaela Bloomberg,<sup>6</sup> PhD; Manasa S. Yerramalla,<sup>1</sup> PhD; Mohamed Amine Benadjaoud,<sup>7</sup> PhD; Séverine Sabia,<sup>1,6</sup> PhD
